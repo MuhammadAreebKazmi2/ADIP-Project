@@ -94,7 +94,7 @@ if __name__ == "__main__":
     np.random.seed(42)
 
     # Image path
-    image_path = 'Tall_Grass.jpg'
+    image_path = 'PIA11420~orig.jpg'
 
     # Number of clusters
     n_clusters = 3
